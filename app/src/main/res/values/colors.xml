@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--选中字体颜色-->
+    <color name="tab_selected_color">#FF3b0d</color>
+
+    <color name="tab_normal_color">#A0A0A0</color>
+
+    <!--灰色线-->
+    <color name="french_gray">#dcdcdc</color>
+    <color name="little_gray">#F2F2F2</color>
+    <color name="little_gray02">#F8F8F8</color>
+
+    <!--黑-->
+    <color name="black">#252525</color>
+    <color name="white">#ffffff</color>
+
+    <!--商品精选界面-->
+    <color name="red">#F23030</color>
+</resources>
